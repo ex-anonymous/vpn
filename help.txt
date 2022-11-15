@@ -1,0 +1,6 @@
+Usage: vpn [Options]
+
+Options:
+	-c		Clears the VPN logs.
+	-s		Checks what devices are online.
+	-h 		Help command, displays this menu.
